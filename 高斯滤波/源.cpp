@@ -101,3 +101,4 @@ int TransMatToBuffer(Mat mSrc, unsigned char** ppBuffer, int& nWidth, int& nHeig
 
 	return 0;
 }
+ninin
